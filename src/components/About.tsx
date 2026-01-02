@@ -12,8 +12,8 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="https://images.pexels.com/photos/5175540/pexels-photo-5175540.jpeg?auto=compress&cs=tinysrgb&w=800"
-              alt="BBQ Smoker"
+              src="/morrel.jpeg"
+              alt="Morrell's BBQ"
               className="rounded-lg shadow-2xl w-full h-[500px] object-cover"
             />
           </div>
